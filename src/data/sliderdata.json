@@ -1,0 +1,22 @@
+{
+    "data" :[{
+        "image" : "../img/Elonmask.jpeg",
+        "youtube": "",
+        "name" :""
+    },
+    {
+        "image" : "../img/sundar.jpeg",
+        "youtube": "",
+        "name" :""
+    },
+   {
+        "image" : "../img/JackMa.jpeg",
+        "youtube": "",
+        "name" :""
+    },
+    {
+        "image" : "../img/jobs.jpeg",
+        "youtube": "",
+        "name" :""
+    }]
+}
